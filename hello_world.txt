@@ -1,2 +1,2 @@
 first text ...
-second text is
+second text is 
